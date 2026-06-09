@@ -1,2 +1,10 @@
 # My-Portfolio
-A website that describes me and my skills
+# Hi, I'M Anthony Makur
+🎓 Software Development Student
+
+⚽ Football Enthusiast
+
+💻 Learning Python, HTML, CSS, JavaScript
+
+🌍 Interested in Computer Technology
+
